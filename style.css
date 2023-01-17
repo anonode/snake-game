@@ -1,0 +1,16 @@
+* {
+    background-color: (85,0,0);
+    background-image: url("./puzzle.png");
+    color: white;
+}
+
+.canv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: auto;
+}
+
+h1 {
+    text-align: center; 
+}
